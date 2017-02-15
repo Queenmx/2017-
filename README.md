@@ -125,5 +125,6 @@ factory
 service
 provider
 constant
+
 18、vue 的核心是什么？
 核心是：数据驱动、组件系统
